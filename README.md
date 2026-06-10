@@ -1,4 +1,4 @@
-## Hi there. I'm Maria **Prompt Engineer**. Разработчик AI-решений для бизнеса
+## Hi there. I'm Maria - **Prompt Engineer**. Разработчик AI-решений для бизнеса
 
 Специализируюсь на **автоматизации бизнес-процессов** и внедрении **ИИ-ассистентов «под ключ»**.
 
@@ -41,23 +41,17 @@
 
 ## 🧰 Tech & Tools
 
-### Prompt Engineering
-Prompt Engineering
+**Prompt Engineering**
 
-### Development
-Python, Flask, SQL, Cache
+**Development**: Python, Flask, SQL, Cache
 
-### AI & LLMs
-OpenAI, GigaChat, Yandex GPT, Gemini, Reve
+**AI & LLMs**: OpenAI, GigaChat, Yandex GPT, Gemini, Reve
 
-### Automation
-Albato, n8n
+**Automation**: Albato, n8n
 
-### RAG & Vector Databases
-RAG, Pinecone, FAISS, ChromaDB
+**RAG & Vector Databases**: RAG, Pinecone, FAISS, ChromaDB
 
-### Integrations & Platforms
-Telegram, Google Sheets, Tilda
+**Integrations & Platforms**: Telegram, Google Sheets, Tilda
 
 ---
 
@@ -98,14 +92,6 @@ Telegram, Google Sheets, Tilda
 
 ## 💬 Contact
 
-<!-- Заполните при необходимости -->
-- 📫 Telegram: _укажите @username_
-- 📧 Email: _укажите email_
+- 📧 Email: m.smetannikova07@gmail.com
 - 🔗 GitHub: [ms7-maker](https://github.com/ms7-maker)
 
----
-
-<!--
-Стиль — как GitHub Profile README (ms7-maker).
-Можно скопировать содержимое в README.md репозитория ms7-maker/ms7-maker для отображения на профиле GitHub.
--->
